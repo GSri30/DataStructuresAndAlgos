@@ -6,7 +6,7 @@
 </p>
 
 > This repository consists of all my dsa codes (written in C) during my college course.
-> Give it a star if you find it useful!
+> Give it a STAR if you find it useful!
 
 
 
