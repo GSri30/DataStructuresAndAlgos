@@ -6,6 +6,9 @@
 </p>
 
 > This repository consists of all my dsa codes (written in C) during my college course.
+> Give it a star if you find it useful!
+
+
 
 ## Author
 
@@ -21,4 +24,4 @@
 Give a ⭐️ if this project helped you!
 
 ***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
+This README was generated with ❤️ 
